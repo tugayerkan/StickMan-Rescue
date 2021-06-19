@@ -1,0 +1,9 @@
+{
+   "paths" :
+      [
+         "Assets/SencanUtils",
+         "Assets/DOTween",
+         "Assets/GameAnalytics",
+         "Assets/FacebookSDK"
+      ]
+}

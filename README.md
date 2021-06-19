@@ -1,2 +1,2 @@
-# StickMan-Rescue
-Hypercasual game project thet developeed at Unity
+# StickmanRescue
+ HyperCasual game project developed at unity 

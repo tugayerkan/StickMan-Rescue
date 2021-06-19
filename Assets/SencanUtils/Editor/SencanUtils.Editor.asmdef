@@ -1,0 +1,26 @@
+{
+    "name": "SencanUtils.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ade9eba5570254a83b2d9aa00721905d",
+        "GUID:9b6d8507e3fd641d9bbaa86b4b055f68",
+        "GUID:17e5ceafd13c448b4b798f43209ea28f",
+        "GUID:7c99f1ffae6f644bf8a0523515868474",
+        "GUID:93b49a9af5ff34eccafc9d1784ace479",
+        "GUID:6a2f1f33324eb45ffb9bafdc26f6d44b",
+        "GUID:c63b01e0f83da45d4bdd2c174267aa03",
+        "GUID:4694f6eb8b6004c6c987af058d40c6f8",
+        "GUID:db531e66c90f1468285867cc4f523423"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

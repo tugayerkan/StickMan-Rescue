@@ -1,0 +1,16 @@
+{
+    "name": "SencanUtils.LevelManagement",
+    "references": [
+        "GUID:ade9eba5570254a83b2d9aa00721905d",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
